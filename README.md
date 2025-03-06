@@ -40,7 +40,7 @@ This project consists of:
 
 ## **Live Demo**
 
-- The live links for the frontend and backend will be provided after deployment.
+- [The live links for the frontend and backend will be provided after deployment](https://greeting-app-gules.vercel.app/).
 
 ## **Contribution & Support**
 
