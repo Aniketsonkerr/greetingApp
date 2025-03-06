@@ -19,7 +19,7 @@ function App() {
     try {
       // Send a GET request to the backend API with the name as a query parameter
       const response = await fetch(
-        `http://localhost:8000/api/greet?name=${name}`
+        `https://greetingapp-ri03.onrender.com/api/greet?name=${name}`
       );
 
       // Parse the JSON response from the API
